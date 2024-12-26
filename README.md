@@ -2,7 +2,7 @@
 
 A stylish, animated React component that displays user information in a cyberpunk-themed card layout. Built with React, TailwindCSS, and enhanced with cyberpunk-style animations and effects.
 
-![User Card Preview](https://via.placeholder.com/800x400)
+![User Card Preview](public/UserCard Final.png)
 
 ## Features
 
